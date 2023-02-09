@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545336389286",
+    "project_id": "guide-a8beb",
+    "storage_bucket": "guide-a8beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545336389286:android:0345ed8e287241222ece67",
+        "android_client_info": {
+          "package_name": "com.demangans.pinjolaman.dompetkilat.cepatcair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545336389286-mf0ch3qgm30tihp477tn5lfgigm37lsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzDW8ELgSs3lFi_afYrw1KAV91JdyIYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545336389286-mf0ch3qgm30tihp477tn5lfgigm37lsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
